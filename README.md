@@ -25,7 +25,7 @@ Original Dataset [Link](https://huggingface.co/datasets/lansinuote/diffusion.8.i
 ```
 ## Model Training
 
-The model is fine-tuned on dataset using the following steps:
+The model(`CompVis/stable-diffusion-v1-1`) is fine-tuned on dataset using the following steps:
 
 - **Prepare the Data:** Place training images, target images, and prompts in the appropriate directories.
 - **Configure the Training:** Update the batch size, number of epochs, and other parameters.
